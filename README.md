@@ -12,7 +12,7 @@ Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sq
 ## Power BI Data Modeling
 - [Lab: Data Modeling Best Practices]
 - [Lab: Preparing the Power BI Environment]
-- [Lab: Incremental Refresh](https://docs.microsoft.com/en-us/power-bi/service-premium-incremental-refresh)
+- [Lab: Incremental Refresh](https://github.com/microsoft/pbilabs/tree/master/Incremental%20Refresh)
 - [Lab: Aggregations]
 - [Lab: Managing and Monitoring Premium Capacity]
 
